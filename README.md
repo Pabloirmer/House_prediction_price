@@ -1,5 +1,5 @@
 # House_prediction_price
-House price Prediction using a MLR model 
+House price Prediction using a MLR model. A Medium Blog Post is written by me is shown here: https://medium.com/@pabloirmer/predicting-house-prices-insights-from-data-92bd4c35da62
 
 # House Price Prediction Project
 
